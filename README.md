@@ -6,7 +6,7 @@
 <h4 align="center"> - 📌 Working at Sedgwick (Summer Intern) </h4>
 <h4 align="center"> - 🛠️ Founder of Sonnaz Group (https://bit.ly/sonnazgroup) </h4>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<h3 align="center"> ----------------------------------------------------------------------------------------------------- </h3>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
@@ -24,11 +24,9 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p> 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<h3 align="center"> ----------------------------------------------------------------------------------------------------- </h3>
   
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kmschang&show_icons=true&locale=en&theme=dark" height="180em" alt="kmschang"/>   
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmschang&theme=dark" alt="kmschang" height="180em" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
