@@ -27,21 +27,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmschang&show_icons=true&locale=en&theme=dark" height="180em" alt="kmschang" />   
-</p>
-<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmschang&show_icons=true&locale=en&theme=dark" height="180em" alt="kmschang"/>   
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmschang&theme=dark" alt="kmschang" height="180em" />
-</p>  
- 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">  
-<a href="https://github.com/kmschang">  
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kmschang&theme=dark" height="180em" />  
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kmschang&theme=dark" height="180em" />  
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmschang&theme=dark" height="180em" />  
-</div>  
-  
+</p>
 
-
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
