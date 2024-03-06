@@ -40,9 +40,11 @@
  
 
 
-</p>  
+ 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kmschang&show_icons=true&locale=en&theme=dark" height="180em" alt="kmschang" />   
+</p>
+<p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmschang&theme=dark" alt="kmschang" height="180em" />
 </p>  
 
