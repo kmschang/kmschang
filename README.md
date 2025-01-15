@@ -13,9 +13,9 @@
 
 - 🐦‍🔥 Project Development Manager at Cardinal Compliance Consultants
 - 🐦‍🔥 @kscardinal | github.com/kscardinal
-- 🐦‍🔥 How to reach me at work: kschang@cardinalhs.net | +1 (419) 882-9224
+- 🐦‍🔥 How to reach me at work: kschang@cardinalhs.net | +1 (419) 882-9224-1012
 
 <br>
 
-- 🛠️ Founder of Sonnaz Group | bit.ly/sonnazgroup
+- 🛠️ Founder of Sonnaz Group | https://www.sonnazgroup.com
 - 🛠️ App and Web Development Start-up
