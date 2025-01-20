@@ -19,3 +19,4 @@
 
 - 🛠️ Founder of Sonnaz Group | https://www.sonnazgroup.com
 - 🛠️ App and Web Development Start-up
+- 🛠️ How to reach me at Sonnaz Group: kyle@sonnazgroup.com
