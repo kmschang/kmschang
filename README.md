@@ -44,7 +44,7 @@
 
 ---
 
-## 🐦‍🔥 Work Projects
+## 🐦‍🔥 Work Projects ([@kscardinal](https://www.github.com/kscardinal))
 
 ### 🔒 [`Secure Auth System`](https://github.com/kscardinal/secure-auth-system)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/kscardinal/secure-auth-system)
