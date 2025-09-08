@@ -1,5 +1,8 @@
 # 👋 Hi, I’m Kyle Schang [(@kmschang)](https://www.github.com/kmschang)
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/kmschang/kmschang)
+![GitHub last commit](https://img.shields.io/github/last-commit/kmschang/kmschang)
+
 - 🎓 Senior Honors Computer Science and Engineering Student at University of Toledo
 - 👨🏻‍💻 Founder / Developer @ [Sonnaz Group, LLC](https://www.sonnazgroup.com)
 - 🐦‍🔥 Lead Intern Project Developer @ [Cardinal Compliance Consultants, LLC](https://cardinalhs.net/)
