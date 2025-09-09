@@ -38,7 +38,7 @@
 - **Description:** Playground for all my Python Projects
 
 
-### 🐦 [`Swift`](https://www.github.com/kmschang/Playgrounds)
+### 🐦‍⬛ [`Swift`](https://www.github.com/kmschang/Playgrounds)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/kmschang/Playgrounds)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kmschang/Playgrounds)
 
