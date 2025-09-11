@@ -77,8 +77,8 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/kmschang/loto-server)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kmschang/loto-server)
 
-- **Languages:** Docker, Docker Compose. Python
-- **Description:** 
+- **Languages:** Docker, Docker Compose, Python
+- **Description:** Contains the Docker configurations for hosting and running the PDF report generation service
 
 ### 🖥️ `Internal Communication Network`
 
