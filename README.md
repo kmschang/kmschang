@@ -73,6 +73,13 @@
 - **Languages:** Swift, SwiftUI
 - **Description:** LOTO Data Collection is an app, developed in Xcode using SwiftUI, aimed at streamlining data collection in the field and making it easier to generate reports when back in the office.
 
+### 📱 [`loto-server`](https://www.github.com/kmschang/loto-server)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/kmschang/loto-server)
+![GitHub last commit](https://img.shields.io/github/last-commit/kmschang/loto-server)
+
+- **Languages:** Docker, Docker Compose. Python
+- **Description:** 
+
 ### 🖥️ `Internal Communication Network`
 
 - Leading the development and deployment of a secure, scalable communication platform, streamlining internal collaboration for consultants.
