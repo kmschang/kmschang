@@ -4,6 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/kmschang/kmschang)
 
 - 🎓 Senior Honors Computer Science and Engineering Student at University of Toledo
+- 🏎️ Upcoming Software Engineer Intern at General Motors: Motorsports in Charlotte, NC
 - 👨🏻‍💻 Founder / Developer @ [Sonnaz Group, LLC](https://www.sonnazgroup.com)
 - 📄 Resume
     - [`Resume.pdf`](Resume.pdf)
