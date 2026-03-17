@@ -27,9 +27,9 @@
 ---
 ### Professional Experience
 **Cardinal Compliance Consultants** | Lead Intern Project Developer <br>
-*May 2024 - Present*
-- Spearhead the development of an internal communication network and lead the creation of web-based and standalone applications, enhancing productivity and enabling consultants to expand audience reach without compromising service quality
-- Manage project timelines and collaborated across teams to ensure scalable solutions are aligned with company objectives 
+*May 2024 - December 2025*
+- Spearheaded the development of an internal communication network and lead the creation of web-based and standalone applications, enhancing productivity and enabling consultants to expand audience reach without compromising service quality
+- Managed project timelines and collaborated across teams to ensure scalable solutions are aligned with company objectives 
 
 **Kohl's** | Operations Associate <br>
 *September 2020 - April 2024*
@@ -44,7 +44,7 @@
 - Contribute to the development and testing of the car as a trusted driver, providing valuable feedback during practice sessions and earning the opportunity to drive at the Michigan International Speedway
 
 **Rocket Marching / Varsity Band** | Section Leader <br>
-*July 2022 - May 2025*
+*July 2022 - Present*
 - Led day-to-day operations as Section Leader for the Tenor Saxophone section, coordinating activities, fostering collaboration, and enhancing morale within the section
 - Mentored newer members, promoting accountability and pride in the group’s work, while maintaining high standards of excellence and guiding the section toward collective success
 
