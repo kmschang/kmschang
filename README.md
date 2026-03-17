@@ -5,8 +5,6 @@
 
 - 🎓 Senior Honors Computer Science and Engineering Student at University of Toledo
 - 👨🏻‍💻 Founder / Developer @ [Sonnaz Group, LLC](https://www.sonnazgroup.com)
-- 🐦‍🔥 Lead Intern Project Developer @ [Cardinal Compliance Consultants, LLC](https://cardinalhs.net/)
-    - GitHub: [`@kscardinal`](https://www.github.com/kscardinal)
 - 📄 Resume
     - [`Resume.pdf`](Resume.pdf)
     - [`Resume.md`](resume.md)
