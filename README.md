@@ -59,44 +59,10 @@
 
 ---
 
-## 🐦‍🔥 Work Projects ([@kscardinal](https://www.github.com/kscardinal))
-
-> [!NOTE]\
-> Most of the following repositories are private due to sensitive content. They represent projects developed in-house for [Cardinal Compliance Consultants](https://www.cardinalhs.net) and are available only in summary form. For public repositories showcasing work-related projects, please visit my work GitHub account: [`@kscardinal`](https://www.github.com/kscardinal).
-
-### 📱 [`loto-data-collection`](https://www.github.com/kmschang/loto-data-collection)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/kmschang/loto-data-collection)
-![GitHub last commit](https://img.shields.io/github/last-commit/kmschang/loto-data-collection)
-
-- **Languages:** Swift, SwiftUI
-- **Description:** LOTO Data Collection is an app, developed in Xcode using SwiftUI, aimed at streamlining data collection in the field and making it easier to generate reports when back in the office.
-
-### 📱 [`loto-server`](https://www.github.com/kmschang/loto-server)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/kmschang/loto-server)
-![GitHub last commit](https://img.shields.io/github/last-commit/kmschang/loto-server)
-
-- **Languages:** Docker, Docker Compose, Python
-- **Description:** Contains the Docker configurations for hosting and running the PDF report generation service
-
-### 🖥️ `Internal Communication Network`
-
-- Leading the development and deployment of a secure, scalable communication platform, streamlining internal collaboration for consultants.
-
-### 🖥️ `Project Management System`
-
-- Directing the integration and onboarding of our new project management and CRM solution, improving workflow efficiency and client management.
-
-### 📱 `Data Collection Apps`
-
-- Developing mobile based data collection applications, enabling accurate and efficient field data gathering, and subsequent report generation.
-
----
-
 ## 📫 Let’s Connect
 
 - LinkedIn: [linkedin.com/in/kyle-schang/](linkedin.com/in/kyle-schang/)
 - GitHub (personal projects): [github.com/kmschang](https://www.github.com/kmschang)
-- GitHub (work projects): [github.com/kscardinal](github.com/kscardinal)
 - Email: [kyle@schang.net](mailto:kyle@schang.net)
 - [Sonnaz Group](https://www.sonnazgroup.com): [kschang@sonnazgroup.com](mailto:kschang@sonnazgroup.com)
 
