@@ -44,9 +44,9 @@
 - **Languages:** HTML, CSS, JavaScript, BootStrap, SCSS, sass
 - **Description:** Day Tracker (Webapp) is a web version of the Day Trakcer iOS app aimed at reaching more users and being more accessable.
 
-### 📱 [`discount-calculator`](https://www.github.com/kmschang/discount-calculator)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/kmschang/discount-calculator)
-![GitHub last commit](https://img.shields.io/github/last-commit/kmschang/discount-calculator)
+### 📱 [`discount-calculator`](https://www.github.com/kmschang/discount-calculator-v2)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/kmschang/discount-calculator-v2)
+![GitHub last commit](https://img.shields.io/github/last-commit/kmschang/discount-calculator-v2)
 
 - **Languages:** Swift
 - **Description:** Discount Calculator is an app, developed in Xcode using Swift Playgrounds, that helps you calculate final prices after applying single or multiple discounts and taxes, with customizable themes and icons.
